@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9fa23f8-9b39-4757-8bf2-f0149ebc866b" alt="logo">
+ ![image](https://github.com/user-attachments/assets/4304d048-7ed7-4a27-91da-b276cf8c1c2c)
 </p>
 
 ## Cardano Dapp Template
