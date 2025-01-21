@@ -1,7 +1,4 @@
-
-<p align="center">
- ![image](https://github.com/user-attachments/assets/4304d048-7ed7-4a27-91da-b276cf8c1c2c)
-</p>
+![image](https://github.com/user-attachments/assets/c1c918af-32ad-414d-b000-639630094c30)
 
 ## Cardano Dapp Template
 
