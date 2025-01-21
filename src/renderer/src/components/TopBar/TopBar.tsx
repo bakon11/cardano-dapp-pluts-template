@@ -34,7 +34,7 @@ export const TopBar = (): JSX.Element => {
         }}
       >
         <Typography level="h4" sx={{ display: 'flex', alignItems: 'center' }}>
-          <img src={icon} alt="Icon" height="25" style={{ marginRight: '0.5rem' }} /> Plu-Ts Dapp Demo
+          <img src={icon} alt="Icon" height="25" style={{ marginRight: '0.5rem' }} /> Plu-ts based Dapp Template
         </Typography>
         <Sheet>
           {/* Settings Menu Button */}
